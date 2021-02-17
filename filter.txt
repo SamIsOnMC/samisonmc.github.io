@@ -6,3 +6,6 @@
 !
 !
 ||facebook.com^
+facebook.com
+https://facebook.com
+https://www.facebook.com
